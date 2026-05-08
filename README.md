@@ -1,3 +1,4 @@
+# ALumno: Estrada Rodriguez Melani
 # Pico W Keypad-to-LED Controller
 
 A Raspberry Pi Pico W firmware project that reads a 4x4 matrix keypad and controls 12 LEDs based on the pressed key.
